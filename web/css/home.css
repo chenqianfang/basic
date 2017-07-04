@@ -1,0 +1,146 @@
+
+	
+	*{margin:0;padding:0;list-style-type:none;}
+	
+	aside{   
+		width:220px;
+		float:left;
+		height:800px;
+		margin-top:10px;margin-left:25px;
+		background:url(../pic/tuku/bei10.jpg);
+		background-size:100% 100%;
+	}
+	article{
+		border-right:1px #330000 soild;
+		width:60%;
+		margin-left:340px;
+		margin-top:55px;
+		height:auto;
+		background:#FFF;
+	
+	}
+	
+	fieldset{
+		border:0px;
+	}
+	
+	article img{
+		width:200px;height:200px;
+		margin:10px;
+		border-radius:15px;
+		-moz-border-radius:15px;
+		-webkit-border-radius:15px;
+		border:1px solid;
+		
+	}
+	
+	article ul li{
+		display:block;
+		float:left;
+		margin-left:0px;
+		margin-top:25px;
+		background:url(../pic/tuku/bei9.jpg);
+		background-size:100% 100%;
+		padding:15px;
+		border: 1px #CCC solid;
+		-moz-birder-radius:20px;
+		-webkit-border-radius:20px;
+	}
+	aside ul li{
+		display:block;
+		line-height:40px;
+		
+		margin:10px 20px;
+		}
+	.consection{
+		display:block;
+		border:0px #330000 solid;
+		width::300px;
+		left:10px;top:10px;
+		margin:-20px auto;padding:20px;
+		
+	}
+
+	aside ul li p{
+		line-height:20px;
+		font-size:18px;
+		font-family:宋体;
+		color:#63C;
+	}
+	h3{
+		color:#F30;
+		font-family:华文新魏;
+		font-size:24px;
+	}
+	
+
+	#outer{
+		width:1090px;
+		height:250px;
+		margin:50px auto;
+		position:relative;
+		overflow:hidden;
+		background:#eee;
+		box-shadow:10px 5px 15px #ccc;
+		border-radius:5px;
+		border:1px solid #ccc;
+		}
+	
+	#inner{
+		display:block;
+		width:6540px;
+		height:400px;
+		position:absolute;
+		left:0;
+		top:0;
+		}
+		
+	#inner li{
+		display:block;
+		width:1090px;
+		height:400px;
+		float:left;
+		font-size:72px;
+		line-height:400px;
+		text-align:center;
+		content:#666;
+		text-shadow:3px 3px 2px #999,5px 5px 2px #ccc;
+		background:#eee;
+		}
+		
+	#nav{
+		
+		width:200px;
+		height:40px;
+		padding-left:602px;
+		padding-bottom:10px;
+		position:absolute;
+		bottom:0;left:0;
+		opacity:0.8;
+		filter:alpha(opacity=80);
+		}
+		
+	#nav em{
+		display:block;
+		float:left;
+		width:24px;
+		height:24px;
+		margin-right:8px;
+		margin-top:8px;
+		line-height:24px;
+		text-align:center;
+		font-size:14px;
+		color:#333;
+		font-style:normal;
+		font-family:Arial;
+		background:#eee;
+		border-radius:12px;
+		cursor:pointer;
+		}
+		
+	#nav .ehover{
+		background:#cc33cc;
+		color:#fff;
+		}
+
+		
